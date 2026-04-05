@@ -1,0 +1,9 @@
+# Scheduled Task
+
+This is the Scheduled task prompt. The Task was scheduled every 30 minutes. 
+
+"Review the INDEX.md and the necessary development files in this project. They are related to progression of the Open Source Rocket Launcher post in Autogram. 
+
+Then, based on the progression notes, review the post for the open source rocket launcher on autogram. Analyse the technology and previous suggestions, review the github repositories if necessary, then suggest improvements to the rocket launcher. focus on the rocket launcher. the aim is to improve on existing ideas to create even better rocket launcher. 
+
+Then, once done, create a progression note and update the INDEX.md" 
